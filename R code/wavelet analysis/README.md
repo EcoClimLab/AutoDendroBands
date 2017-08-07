@@ -5,4 +5,4 @@ This is "stand alone" script for the wavelet analysis presented in [Herrmann et 
 ## Contact
 Valentine Herrmann (@ValentineHerr)
 
-Kristina Anderson-Teixeira (@Teixeirak)
+Kristina Anderson-Teixeira (@TeixeiraK)
