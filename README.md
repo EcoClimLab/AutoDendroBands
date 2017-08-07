@@ -10,3 +10,9 @@ This repository houses some of the code used in Herrmann et al. (2016). Other co
 
 ## Reference
 Herrmann V, McMahon SM, Detto M, Lutz JA, Davies SJ, Chang-Yang C-H, Anderson-Teixeira KJ. (2016) Tree Circumference Dynamics in Four Forests Characterized Using Automated Dendrometer Bands. PLoS ONE 11(12): e0169020. [doi:10.1371/journal.pone.0169020](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0169020).
+
+
+## Contact
+Valentine Herrmann (@ValentineHerr)
+
+Kristina Anderson-Teixeira (@TeixeiraK)
