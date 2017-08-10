@@ -4,7 +4,7 @@
 # Date: 8/7/2017
 # Author: Valentine Herrmann, HerrmannV@si.edu
 # Reference paper : Herrmann et al. 2016. Tree Circumference Dynamics in Four Forests Characterized Using Automated Dendrometer Bands. PlosOne
-########################################
+#########################################
 
 
 # Load libraries ####
